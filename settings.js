@@ -22,7 +22,7 @@ global.themeemoji = '🪀'
 global.wm = "KËNÄN TECH"
 
 //theme link
-global.link = 'https://wa.me/243972681974
+global.link = 'https: WhatsApp.com
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
